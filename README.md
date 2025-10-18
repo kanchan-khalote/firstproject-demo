@@ -1,4 +1,5 @@
 # firstproject-demo
 this is my first git repository
 <br>
-Author name - Kanchan Khalote
+Author name - Kanchan khalote
+
